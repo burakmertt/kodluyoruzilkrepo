@@ -1,5 +1,5 @@
 # kodluyoruzilkrepo
-Kodluyoruz Eğitimi kapsamında açtığım ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
+Kodluyoruz Eğitimi kapsamında açtığım ilk repo. İçerisinde bir adet README dosyası, bir adet de JPG dosyası barındırıyor.
 ![MIT](https://github.com/burakmertt/kodluyoruzilkrepo/blob/main/kodluyoruzilkrepopng.png)
 
 ## Installation
